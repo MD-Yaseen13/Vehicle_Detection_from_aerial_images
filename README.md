@@ -54,14 +54,14 @@ The project directory is organized as follows:
 
 Download pre-trained weights for YOLOv3 and Faster R-CNN models.
 
-Dataset
+## Dataset
 The dataset used in this project consists of aerial images captured from drones over urban areas. It is divided into training and testing sets, annotated with bounding boxes around vehicles.
 
-Model Training
+## Model Training
 YOLOv3: Trained for object detection using the Darknet framework.
 Faster R-CNN: Trained using TensorFlow for improved localization and classification.
 
-Evaluation
+## Evaluation
 The system's performance is evaluated based on:
 
 Accuracy
@@ -69,11 +69,11 @@ Precision
 Recall
 Mean Average Precision (mAP)
 
-Results
+## Results
 The results demonstrate the effectiveness of the proposed system in accurately detecting vehicles from aerial images, with potential applications in urban planning and surveillance.
 
-Contributing
+## Contributing
 Contributions to this project are welcome. For major changes, please open an issue first to discuss potential improvements or additions.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
