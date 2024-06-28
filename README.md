@@ -1,4 +1,4 @@
-# Vehicle Detection from Aerial Images using Deep Learning
+c# Vehicle Detection from Aerial Images using Deep Learning
 
 ## Overview
 This project implements a vehicle detection system using deep learning techniques, specifically YOLOv3 and Faster R-CNN, applied to aerial images. The system aims to accurately detect vehicles in urban areas from high-resolution aerial photographs, contributing to applications in surveillance, traffic management, and urban planning.
@@ -8,14 +8,11 @@ This project implements a vehicle detection system using deep learning technique
 2. [Objective](#objective)
 3. [Technologies Used](#technologies-used)
 4. [Project Structure](#project-structure)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Dataset](#dataset)
-8. [Model Training](#model-training)
-9. [Evaluation](#evaluation)
-10. [Results](#results)
-11. [Contributing](#contributing)
-12. [License](#license)
+5. [Dataset](#dataset)
+6. [Evaluation](#evaluation)
+7. [Results](#results)
+8. [Contributing](#contributing)
+9. [License](#license)
 
 ## Introduction
 Vehicle detection from aerial images plays a crucial role in various domains such as urban planning, traffic monitoring, and surveillance. This project focuses on leveraging deep learning models to automate the detection process, offering advantages in accuracy and efficiency over traditional methods.
@@ -54,18 +51,6 @@ The project directory is organized as follows:
 - **models/**: Includes directories for YOLOv3 and Faster R-CNN models.
 - **notebooks/**: Jupyter notebooks for experimentation and analysis.
 - **scripts/**: Scripts for data preprocessing, training, and evaluation.
-
-## Installation
-To set up the environment for this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/vehicle-detection.git
-   cd vehicle-detection
-Install dependencies:
-
-bash
-pip install -r requirements.txt
 
 Download pre-trained weights for YOLOv3 and Faster R-CNN models.
 
